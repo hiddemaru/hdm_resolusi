@@ -3,6 +3,8 @@ Rencana Modul
   >Button
     >positif button
     >negatif button
+    >float button
+    >animasi
   >edit Text
   >Data Binding
 -Activity
