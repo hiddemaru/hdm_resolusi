@@ -2,5 +2,6 @@ Rencana Modul
 -Dasar Android
   >Button
   >edit Text
+  >Data Binding
 -Activity
 -Fragment
