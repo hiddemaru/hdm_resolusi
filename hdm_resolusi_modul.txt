@@ -2,6 +2,7 @@ Rencana Modul
 -Dasar Android
   >Button
     >float button
+    >animasi
   >edit Text
   >Data Binding
 -Activity
